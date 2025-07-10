@@ -4,14 +4,15 @@ A blockchain-based land registration system ensures secure, transparent, and tam
 #SYSTEM SPECIFICATION:
 
 HARDWARE REQUIREMENTS:
-	System		:   Intel i3
-	Hard Disk	          :   1 TB.
-	Monitor	          :   14’ Colour Monitor.
-	Mouse		:   Optical Mouse.
-	Ram		          :   4GB.
+System		:   Intel i3
+Hard Disk :   1 TB.
+Monitor	  :   14’ Colour Monitor.
+Mouse		  :   Optical Mouse.
+Ram		    :   4GB.
+
 SOFTWARE REQUIREMENTS:
-	Operating system 	:   Windows 10.
-	Coding Language		:   Python.
-	Front-End			:   Html. CSS
-	Designing			:   Html,css,javascript.
-	Data Base			:   SQLite.
+Operating system 	:   Windows 10.
+Coding Language		:   Python.
+Front-End			    :   Html. CSS
+Designing			    :   Html,css,javascript.
+Data Base			    :   SQLite.
